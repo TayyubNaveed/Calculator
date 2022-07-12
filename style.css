@@ -1,0 +1,46 @@
+body{
+    background-image: url(child-kid-colorful-education-toys-cubes-with-numbers-flat-lay-childhood-infancy-children-babies-concept.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table{
+    margin: auto;
+}
+
+h1{
+    font-family: georgia;
+    font-size: 100px;
+    color: white;
+}
+
+input{
+    font-size:25px;
+    width: 320px;
+    height: 40px;
+    border:rgb(38, 15, 121) solid;
+    border-radius: 10px;
+}
+
+button{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(194, 109, 40);
+    width: 75px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.calculator{
+    background-color: rgba(128, 255, 0, 0.377);
+    display: inline-block;
+    border-radius: 10px;
+    border-color: violet;
+    padding: 10px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 15px;
+    border-color: black;
+}
